@@ -71,7 +71,7 @@
   </pre>
 
   <h2>Screenshot</h2>
-  <p>Insira abaixo um print da aplicação em execução (substitua <code>screenshot.png</code> pela sua imagem):</p>
+  <p>Captura de tela:</p>
   <img src="https://github.com/user-attachments/assets/b64dd9af-f556-4df4-9d18-baed6e350e92" alt="Print da aplicação" class="screenshot">
 
   <h2>Contribuições</h2>
